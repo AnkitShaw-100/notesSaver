@@ -2,11 +2,11 @@ import "./App.css";
 import "tailwindcss";
 
 function App() {
-  return <>
-  <h1 class="text-7xl font-bold underline">
-    Hello world!
-  </h1>
-  </>;
+  return (
+    <>
+    <div>Hello1</div>
+    </>
+  );
 }
 
 export default App;
